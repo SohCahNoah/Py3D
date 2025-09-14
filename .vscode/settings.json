@@ -1,0 +1,7 @@
+{
+    "code-runner.cwd": "${workspaceFolder}",
+    "code-runner.executorMapByGlob": {
+        
+        "pom.xml": "cd $dir && mvn clean package"
+    }
+}
